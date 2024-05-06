@@ -1,14 +1,14 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/93536412/227904311-5ada46db-a4fa-4f28-b841-d83b1f1e4374.png" width="600">
 
-![version](https://img.shields.io/badge/version-1.4-brightgreen)
+![version](https://img.shields.io/badge/version-6.1.1.4-brightgreen)
 ![platform](https://img.shields.io/badge/platform-Android-brightgreen)
 ![minSdk](https://img.shields.io/badge/minSdk-21-brightgreen)
+![maxSdk](https://img.shields.io/badge/maxSdk-34-brightgreen)
 ![license](https://img.shields.io/badge/license-MIT-brightgreen)
 
-<img src="https://user-images.githubusercontent.com/93536412/227768392-703e62dd-f70c-428e-9c02-8d0f9388deda.png" width="70"><a href='https://play.google.com/store/apps/details?id=com.nativegame.juicymatch&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200"/></a>
+<img src="https://user-images.githubusercontent.com/93536412/227768392-703e62dd-f70c-428e-9c02-8d0f9388deda.png" width="70"><a href='https://play.google.com/store/apps/details?id=com.vigneshgbe.juicymatch'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200"/></a>
 
-**Juicy Match is an open-source Android game made with [Natty Engine](https://github.com/nativegamestudio/natty-engine)**
 </div>
 
 ---
@@ -33,5 +33,3 @@ https://user-images.githubusercontent.com/93536412/191766820-ff952d4f-2320-4ac4-
 [Free Music](https://soundcloud.com/fm_freemusic),
 [mixkit]( https://mixkit.co/free-sound-effects)
 
-## :balance_scale: License:
-Juicy Match is licensed under the [MIT license](https://github.com/nativegamestudio/juicy-match/blob/master/LICENSE)
